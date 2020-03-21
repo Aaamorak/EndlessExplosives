@@ -1,0 +1,14 @@
+
+-Adds [c/FF7777:Upgradeable] Endless Handheld Cannons That Fire Different Vanilla Explosives
+-Cannons Are Crafted At An Anvil With 199 Explosives
+For Example: 199 Grenades = Endless Grenade Cannon
+
+Cannon Types:
+[i/1:166] [i/1:235] [i/1:3115] [i/1:3196] [i/1:1168] [i/1:167] [i/1:2896] [i/1:3547] [i/1:168] [i/1:2586] [i/1:3116] [i/1:1130] [i/1:3548]
+They Can Be Upgraded To Shoot Farther And Faster
+
+[c/FFBB77:ChangeLog]
+[c/FF7777:1.1]
+-Changed The Amount Of Explosives Required To Craft Their Respective Cannons From 999 To 199
+[c/FF7777:1.1.1]
+-Added Icon
